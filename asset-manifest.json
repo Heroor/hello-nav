@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.8169fa6e.css",
   "main.css.map": "static/css/main.8169fa6e.css.map",
-  "main.js": "static/js/main.7e9c18bd.js",
-  "main.js.map": "static/js/main.7e9c18bd.js.map",
+  "main.js": "static/js/main.7748188c.js",
+  "main.js.map": "static/js/main.7748188c.js.map",
   "static/media/echarts.png": "static/media/echarts.848eb12c.png",
   "static/media/flow.png": "static/media/flow.389d4782.png",
   "static/media/gatsby.png": "static/media/gatsby.9af73467.png",
@@ -12,6 +12,7 @@
   "static/media/nyantocat.gif": "static/media/nyantocat.2d8ee815.gif",
   "static/media/parcel.png": "static/media/parcel.61ddae8d.png",
   "static/media/redux.png": "static/media/redux.7333cd57.png",
+  "static/media/rxjs.png": "static/media/rxjs.9a648323.png",
   "static/media/sequelize.png": "static/media/sequelize.a4e2d018.png",
   "static/media/tinypng.png": "static/media/tinypng.05755099.png",
   "static/media/travis.png": "static/media/travis.b8211abe.png",
