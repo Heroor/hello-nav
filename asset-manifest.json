@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.e2554e24.css",
   "main.css.map": "static/css/main.e2554e24.css.map",
-  "main.js": "static/js/main.c018398a.js",
-  "main.js.map": "static/js/main.c018398a.js.map",
+  "main.js": "static/js/main.6599f18c.js",
+  "main.js.map": "static/js/main.6599f18c.js.map",
   "static/media/echarts.png": "static/media/echarts.848eb12c.png",
   "static/media/flow.png": "static/media/flow.389d4782.png",
   "static/media/gatsby.png": "static/media/gatsby.9af73467.png",
@@ -20,5 +20,6 @@
   "static/media/three.js.png": "static/media/three.js.52eb9362.png",
   "static/media/tinypng.png": "static/media/tinypng.05755099.png",
   "static/media/travis.png": "static/media/travis.b8211abe.png",
-  "static/media/vant.png": "static/media/vant.7cd86434.png"
+  "static/media/vant.png": "static/media/vant.7cd86434.png",
+  "static/media/zepto.png": "static/media/zepto.94947335.png"
 }
