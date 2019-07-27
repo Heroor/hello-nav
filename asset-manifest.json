@@ -1,8 +1,9 @@
 {
   "main.css": "static/css/main.531c9a82.css",
   "main.css.map": "static/css/main.531c9a82.css.map",
-  "main.js": "static/js/main.4e8713a7.js",
-  "main.js.map": "static/js/main.4e8713a7.js.map",
+  "main.js": "static/js/main.53f11e9e.js",
+  "main.js.map": "static/js/main.53f11e9e.js.map",
+  "static/media/angular.svg": "static/media/angular.3f2d405b.svg",
   "static/media/ava.png": "static/media/ava.beefb0ac.png",
   "static/media/cypress.png": "static/media/cypress.2f353f08.png",
   "static/media/echarts.png": "static/media/echarts.848eb12c.png",
